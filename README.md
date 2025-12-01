@@ -25,8 +25,8 @@ I also enjoy learning UI/UX principles to design simple and intuitive user exper
   Minimal and clean interfaces created while exploring design fundamentals.
 
 ## 📫 Reach Me
-- **LinkedIn:** *your-link*  
-- **Email:** *your-email*
+- **LinkedIn:** *www.linkedin.com/in/dhanush-r-dhanu*  
+- **Email:** *dhanushdhanur10@gmail.com*
 
 ---
 
