@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Dhanush 👋
 
-<!--
-**Dhanushr10/Dhanushr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering student passionate about building clean, user-focused applications.  
+I enjoy working on UI/UX, Android development, and backend logic that solves real problems.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- UI/UX Design fundamentals  
+- Android development with Kotlin & Jetpack Compose  
+- Python for problem-solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Skills
+- **Languages:** Python, Java, C, SQL  
+- **Tools / Tech:** Git, Figma, Android Studio, Jetpack Compose  
+- **Interests:** UI/UX Design, App Development, Databases, Cloud Basics
+
+## 📌 Featured Projects
+- **Internship & Project Tracker** — A student productivity tool for tracking applications and deadlines.  
+- **College Bus Tracking App** — Real-time bus tracking concept design and architecture.  
+- **CLI Internship Tracker (Python)** — Simple terminal-based management tool for internships.
+
+## 📫 Reach Me
+- **LinkedIn:** *your-link*  
+- **Email:** *your-email*
+
+---
+
+### ✨ Focused on learning, creating, and improving every day.
